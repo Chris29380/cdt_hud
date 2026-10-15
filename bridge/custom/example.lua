@@ -1,0 +1,13 @@
+-- Copy this pattern and select provider='custom' for the relevant domain.
+-- HudBridge.register('fuel', 'custom', {
+--     resource = 'your_fuel',
+--     read = function(vehicle, settings)
+--         return exports[settings.resource or 'your_fuel']:GetFuel(vehicle)
+--     end
+-- })
+-- Event-based needs (do not fetch on every frame):
+-- local needs = { hunger = false, thirst = false }
+-- AddEventHandler('your_needs:changed', function(hunger, thirst)
+--     needs.hunger, needs.thirst = HudUtil.percent(hunger), HudUtil.percent(thirst)
+-- end)
+-- HudBridge.register('needs', 'custom', { read = function() return needs end })

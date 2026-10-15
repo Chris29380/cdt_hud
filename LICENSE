@@ -1,0 +1,82 @@
+CDT HUD Personal Use and No-Resale License
+Version 1.0
+
+Copyright (c) 2026 CDT. All rights reserved except as expressly granted below.
+
+1. Scope
+
+This license applies to the original CDT HUD source code and documentation
+distributed with this file (the "Software"), to the extent that CDT owns or
+is authorized to license them. Third-party materials are excluded as set out
+in Section 5.
+
+2. Permissions
+
+Subject to this license, you may, free of charge:
+
+  a. Download, copy, install and run the Software for your personal use,
+     including on a FiveM server that you operate yourself.
+  b. Read, study, modify and adapt the source code for that use.
+  c. Share or publish unmodified or modified copies free of charge, including
+     through public source repositories, provided that recipients receive
+     this license and the same permissions and restrictions.
+
+3. No Resale
+
+You may not sell, resell, rent, commercially license or otherwise charge for
+copies of the Software, any portion of it, or modified versions of it.
+This restriction includes:
+
+  a. Selling the Software under another name, brand or author attribution.
+  b. Including the Software in a paid script, resource pack, server template,
+     subscription download or other paid software bundle.
+  c. Requiring payment, a mandatory donation or a purchase to obtain a copy
+     of the Software or a modified version.
+
+Modifying, translating, repackaging, compiling or obfuscating the Software
+does not remove these restrictions. Additional permissions require prior
+written authorization from CDT. No permission beyond the uses expressly
+listed in Section 2 is granted by this license.
+
+4. Attribution and Redistribution
+
+Keep this license, the CDT copyright notice and applicable third-party
+notices with every redistributed copy or substantial portion of the Software.
+Clearly identify modifications and do not imply that CDT authored, approved
+or supports your changes. You may not remove or replace these restrictions
+when redistributing the original code or a modified version.
+
+This license grants no right to use CDT names or branding to imply endorsement.
+
+5. Third-Party Materials
+
+Third-party dependencies and assets remain subject to their own licenses.
+In particular, see docs/ATTRIBUTION.md for the minimap textures originating
+from qbx_hud. Nothing in this license replaces, restricts or expands permissions
+granted under an applicable third-party license. You must comply with those
+terms separately when using or redistributing those materials.
+
+6. Termination
+
+The permissions granted by this license terminate automatically if you
+breach its conditions. Upon termination, stop using and distributing copies
+under this license unless CDT provides written permission to resume.
+Termination does not remove obligations or liabilities arising before it.
+
+7. Disclaimer and Limitation of Liability
+
+To the fullest extent permitted by applicable law, the Software is provided
+without warranties of any kind, including warranties of merchantability,
+fitness for a particular purpose or non-infringement. You are responsible
+for assessing, testing and backing up your installation before use.
+
+To the fullest extent permitted by applicable law, CDT and the contributors
+are not liable for losses or damages arising from use, inability to use,
+modification or redistribution of the Software, including data loss, server
+interruption and lost revenue. Nothing in this license excludes rights or
+liability that applicable law does not allow to be excluded.
+
+8. Reserved Rights
+
+All rights not expressly granted are reserved. This is a custom license;
+it is not the MIT License or another standard unrestricted software license.
