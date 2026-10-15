@@ -1,5 +1,15 @@
 # cdt_hud
 
+![CDT HUD — Présentation](.github/assets/cdt-hud-showcase.png)
+
+## Rejoignez la communauté CDT
+
+Besoin d’aide pour installer ou configurer le HUD ? **Rejoignez notre Discord pour obtenir du support**, échanger avec la communauté et découvrir notre travail de développement. Suivez nos projets et partagez vos retours.
+
+[![Rejoindre notre Discord — support et développements](.github/assets/discord-join-fr.svg)](https://discord.gg/yNkYVhNCQQ)
+
+**[Obtenir de l’aide →](https://discord.gg/yNkYVhNCQQ)** · **[Découvrir nos développements →](https://discord.gg/yNkYVhNCQQ)**
+
 ## Licence
 
 La [licence CDT HUD en anglais](LICENSE) autorise l'utilisation personnelle, la modification du code et la redistribution gratuite avec attribution et conservation des conditions. La vente de la ressource, de copies modifiées ou de packs payants contenant son code est interdite sans autorisation écrite préalable de CDT. Les assets tiers conservent leurs licences ; voir les [attributions](docs/ATTRIBUTION.md).

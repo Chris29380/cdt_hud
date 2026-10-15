@@ -1,5 +1,15 @@
 # cdt_hud
 
+![CDT HUD — Showcase](.github/assets/cdt-hud-showcase.png)
+
+## Join the CDT community
+
+Need help installing or configuring the HUD? **Join our Discord for support**, meet the community and explore our development work. Follow what we are building and share your feedback.
+
+[![Join our Discord — support and development updates](.github/assets/discord-join.svg)](https://discord.gg/yNkYVhNCQQ)
+
+**[Get support →](https://discord.gg/yNkYVhNCQQ)** · **[Follow our development →](https://discord.gg/yNkYVhNCQQ)**
+
 ## License
 
 The [CDT HUD Personal Use and No-Resale License](LICENSE) allows personal use, source-code modification and free redistribution with attribution and the same terms. Selling the resource, modified copies or paid bundles containing its code is prohibited without CDT's prior written authorization. Third-party assets retain their own licenses; see [attribution](docs/ATTRIBUTION.md).
