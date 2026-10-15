@@ -1,12 +1,12 @@
 # cdt_hud
 
-![CDT HUD — Présentation](.github/assets/cdt-hud-showcase.png)
+![CDT HUD — Présentation](assets/cdt-hud-showcase.png)
 
 ## Rejoignez la communauté CDT
 
 Besoin d’aide pour installer ou configurer le HUD ? **Rejoignez notre Discord pour obtenir du support**, échanger avec la communauté et découvrir notre travail de développement. Suivez nos projets et partagez vos retours.
 
-[![Rejoindre notre Discord — support et développements](.github/assets/discord-join-fr.svg)](https://discord.gg/yNkYVhNCQQ)
+[![Rejoindre notre Discord — support et développements](assets/discord-join-fr.svg)](https://discord.gg/yNkYVhNCQQ)
 
 **[Obtenir de l’aide →](https://discord.gg/yNkYVhNCQQ)** · **[Découvrir nos développements →](https://discord.gg/yNkYVhNCQQ)**
 
